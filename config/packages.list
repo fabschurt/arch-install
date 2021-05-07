@@ -16,7 +16,6 @@ composer
 coreutils
 curl
 dconf
-dconf-editor
 desktop-file-utils
 diffutils
 dmidecode
@@ -46,6 +45,7 @@ iputils
 jpegoptim
 jq
 less
+libnotify
 libsmbios
 libva
 libva-utils
@@ -61,6 +61,7 @@ mkpasswd
 mpv
 ncdu
 neofetch
+ngrok
 nodejs-lts-fermium
 npm
 openssh
@@ -83,6 +84,7 @@ python-pip
 ranger
 reflector
 ripgrep
+rsync
 ruby
 ruby-bundler
 ruby-docs
@@ -99,7 +101,6 @@ tar
 tcl
 tk
 tmux
-trash-cli
 ttf-liberation
 ttf-ms-fonts
 ttf-twemoji
